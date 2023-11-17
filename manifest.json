@@ -1,0 +1,11 @@
+{
+    "name": "Support",
+    "short_name": "Support",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "#fff",
+    "description": "",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false
+}
